@@ -1,11 +1,15 @@
 127.0.0.1	localhost
-192.168.1.1	livebox.home
-192.168.1.28	bigbenn
 192.168.1.14	benbook
 192.168.1.15	bsoekris
-::1		localhost ip6-localhost ip6-loopback
-fe00::0		ip6-localnet
-ff00::0		ip6-mcastprefix
-ff02::1		ip6-allnodes
-ff02::2		ip6-allrouters
-
+192.168.1.17	n_work_laptop
+192.168.1.23	n_samsung	
+192.168.1.28	bigbenn
+192.168.1.32	benkindle
+192.168.1.34	papou
+192.168.1.45	bhtpc
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
