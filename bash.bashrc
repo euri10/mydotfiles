@@ -48,6 +48,7 @@ if ${use_color} ; then
         fi
 
         alias ls='ls --color=auto'
+        alias vi=vim
         alias grep='grep --colour=auto'
 else
         if [[ ${EUID} == 0 ]] ; then
