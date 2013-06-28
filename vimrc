@@ -7,6 +7,7 @@ set nocompatible
 set modelines=0
 
 syntax enable
+syntax on
 set background=dark
 colorscheme solarized
 
@@ -58,4 +59,3 @@ inoremap <right> <nop>
 nnoremap j gj
 nnoremap k gk
 nnoremap <leader>W :%s/\s\+$//<cr>:let @/=''<CR>
-
