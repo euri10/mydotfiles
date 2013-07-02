@@ -6,7 +6,6 @@ filetype plugin indent on
 set nocompatible
 set modelines=0
 
-syntax enable
 syntax on
 set background=dark
 colorscheme solarized
